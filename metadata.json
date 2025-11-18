@@ -1,0 +1,7 @@
+{
+  "name": "PostureAI",
+  "description": "Real-time webcam posture analysis and correction recommendations using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
